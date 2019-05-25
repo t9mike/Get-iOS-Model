@@ -22,7 +22,6 @@
     <Title>Get iOS device model details for Xamarin</Title>
     <Description>Xamarin Helper library to get the name of the current iOS device.</Description>
     <PackageReleaseNotes>Added new 2019 iPad models: iPad mini 5 and iPad Air 3.</PackageReleaseNotes>
-    <ReleaseVersion>1.9</ReleaseVersion>
     <PackageIconUrl>https://github.com/dannycabrera/Get-iOS-Model/raw/master/Icons/GetiOSModel.png</PackageIconUrl>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
