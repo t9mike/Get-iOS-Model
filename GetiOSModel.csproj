@@ -65,7 +65,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project=".\packages\NuGet.Build.Packaging.0.1.324\build\NuGet.Build.Packaging.targets" Condition="Exists('.\packages\NuGet.Build.Packaging.0.1.324\build\NuGet.Build.Packaging.targets')" />
